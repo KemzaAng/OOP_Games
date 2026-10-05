@@ -1,0 +1,11 @@
+# Сборка
+[Bb]in/
+[Oo]bj/
+
+# Кэш и настройки IDE
+.vs/
+*.user
+*.suo
+
+# Автозаготовка, которую пересоздаёт Visual Studio
+.github/copilot-instructions.md
